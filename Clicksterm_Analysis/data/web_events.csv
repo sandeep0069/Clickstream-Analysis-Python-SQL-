@@ -1,0 +1,6 @@
+session_id,user_id,event,page,device,traffic_source,event_time
+S1,U1,page_view,home,mobile,google,01-01-2024 10:01
+S1,U1,page_view,product,mobile,google,01-01-2024 10:02
+S1,U1,add_to_cart,cart,mobile,google,01-01-2024 10:03
+S2,U2,page_view,home,desktop,facebook,01-01-2024 11:00
+S2,U2,page_view,product,desktop,facebook,01-01-2024 11:02
